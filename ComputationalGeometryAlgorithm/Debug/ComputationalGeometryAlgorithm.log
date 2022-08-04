@@ -1,0 +1,71 @@
+﻿  GeoUtils.cpp
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33,66): error C2086: 'coordinate_type _x': 재정의
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(62): message : 컴파일되는 클래스 템플릿 인스턴스화 'zoonyeok::Vector<coordinate_type,dimensions>'에 대한 참조를 확인하세요.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(35,1): error C2535: 'zoonyeok::Vector<coordinate_type,dimensions>::Vector(coordinate_type,coordinate_type)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33): message : 'zoonyeok::Vector<coordinate_type,dimensions>::Vector' 선언을 참조하십시오.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33,86): error C3861: '_z': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(108,26): error C2065: 'dimension': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(108,26): error C3861: 'dimension': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(121,26): error C2065: 'dimension': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(121,26): error C3861: 'dimension': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(136,41): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(136,41): error C3861: 'endl': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(139,10): error C3861: 'coord': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(145,7): error C3861: '_index': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(147,41): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(147,41): error C3861: 'endl': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(151,3): error C3861: 'coord': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(159,26): error C2065: 'dimension': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(159,26): error C3861: 'dimension': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33,66): error C2086: 'coordinate_type _x': 재정의
+          with
+          [
+              coordinate_type=float
+          ]
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\GeoUtils.cpp(5): message : 컴파일되는 클래스 템플릿 인스턴스화 'zoonyeok::Vector<float,2>'에 대한 참조를 확인하세요.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(35,1): error C2535: 'zoonyeok::Vector<float,2>::Vector(coordinate_type,coordinate_type)': 멤버 함수를 이미 정의했거나 선언했습니다.
+          with
+          [
+              coordinate_type=float
+          ]
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33): message : 'zoonyeok::Vector<float,2>::Vector' 선언을 참조하십시오.
+  Vector.cpp
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33,66): error C2086: 'coordinate_type _x': 재정의
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(62): message : 컴파일되는 클래스 템플릿 인스턴스화 'zoonyeok::Vector<coordinate_type,dimensions>'에 대한 참조를 확인하세요.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(35,1): error C2535: 'zoonyeok::Vector<coordinate_type,dimensions>::Vector(coordinate_type,coordinate_type)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33): message : 'zoonyeok::Vector<coordinate_type,dimensions>::Vector' 선언을 참조하십시오.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33,86): error C3861: '_z': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(108,26): error C2065: 'dimension': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(108,26): error C3861: 'dimension': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(121,26): error C2065: 'dimension': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(121,26): error C3861: 'dimension': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(136,41): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(136,41): error C3861: 'endl': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(139,10): error C3861: 'coord': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(145,7): error C3861: '_index': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(147,41): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(147,41): error C3861: 'endl': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(151,3): error C3861: 'coord': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(159,26): error C2065: 'dimension': 선언되지 않은 식별자입니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(159,26): error C3861: 'dimension': 식별자를 찾을 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33,66): error C2086: 'coordinate_type _x': 재정의
+          with
+          [
+              coordinate_type=float
+          ]
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.cpp(6): message : 컴파일되는 클래스 템플릿 인스턴스화 'zoonyeok::Vector<float,2>'에 대한 참조를 확인하세요.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(35,1): error C2535: 'zoonyeok::Vector<float,2>::Vector(coordinate_type,coordinate_type)': 멤버 함수를 이미 정의했거나 선언했습니다.
+          with
+          [
+              coordinate_type=float
+          ]
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33): message : 'zoonyeok::Vector<float,2>::Vector' 선언을 참조하십시오.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(35,1): error C2535: 'zoonyeok::Vector<float,3>::Vector(coordinate_type,coordinate_type)': 멤버 함수를 이미 정의했거나 선언했습니다.
+          with
+          [
+              coordinate_type=float
+          ]
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.h(33): message : 'zoonyeok::Vector<float,3>::Vector' 선언을 참조하십시오.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.cpp(17,28): error C2440: '<function-style-cast>': 'initializer list'에서 'zoonyeok::Vector3f'(으)로 변환할 수 없습니다.
+C:\Users\junhy\source\repos\ComputationalGeometryAlgorithm\ComputationalGeometryAlgorithm\Vector.cpp(17,28): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+  코드를 생성하고 있습니다...
